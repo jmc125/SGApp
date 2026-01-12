@@ -1,7 +1,7 @@
 <?php
 
 $portada = [
-"titulo" => "Portada actualizada", (1)
+"titulo" => "Portada actualizada",
 "autor" => "jmc125",
 "resumen" => "Resumen de la portada",
 ];
